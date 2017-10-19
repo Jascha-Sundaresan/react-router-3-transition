@@ -1,11 +1,10 @@
 .DS_Store
 *.swp
 
-example/bundle.*
-
 lib
-es
 
 node_modules
 
-package-lock.json
+yarn.lock
+
+yarn-error.log

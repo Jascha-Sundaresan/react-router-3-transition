@@ -1,5 +1,7 @@
 /.*
 
-/example/
-
 /webpack.*
+
+yarn.lock
+
+yarn-error.log
